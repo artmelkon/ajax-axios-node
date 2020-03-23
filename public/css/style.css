@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 14px;
+}
+
+main {
+  width: 50%;
+  margin: 36px auto;
+  display: block;
+}
+h1, .btn{
+  text-align: center;
+}
+
+.form__input, .form__button, #output {
+  width: 100%;
+  margin: 3px 0;
+  padding: 6px 0;
+}
+
+.form__button {
+  cursor: pointer;
+}
